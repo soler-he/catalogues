@@ -1,5 +1,7 @@
 # SOLER Catalogues
-The [SOLER](https://soler-horizon.eu/) project provides three interlinked catalogues focusing on different aspects of energetic solar eruptions: coronal mass ejections (CME), solar flares, and solar energetic particles (SEP).
+The [SOLER](https://soler-horizon.eu/) project provides three interlinked catalogues focusing on different aspects of energetic solar eruptions: coronal mass ejections (CME), solar flares, and solar energetic particles (SEP). 
+
+You can access the catalogues' CSV files directly using the links below or use the interactive web-app provided at https://soler-eu.streamlit.app.
 
 ## CME catalogue
 This catalogue contains coronal mass ejections (CMEs) with a speed > 1000 km/s obtained from the existing CME lists from the Large Angle and Spectrometric Coronagraph Experiment (LASCO) onboard Solar and Heliospheric Observatory (SOHO)
