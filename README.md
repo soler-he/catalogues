@@ -16,6 +16,10 @@ This catalogue contains multi-spacecraft solar energetic particle (SEP) events, 
 
 - [`SOLER_SEP_catalogue.csv`](https://github.com/soler-he/catalogues/blob/main/SOLER_SEP_catalogue.csv)
 
+## Citing
+
+To cite these catalogues, please obtain the citation from the corresponding [Zenodo entry](https://www.zenodo.org), where you can generate different citation styles on the bottom right of the page.
+
 ## Acknowledgement
 <img align="right" height="80px" src="https://github.com/user-attachments/assets/28c60e00-85b4-4cf3-a422-6f0524c42234" alt="EU flag">
 <img align="right" height="80px" src="https://github.com/user-attachments/assets/5bec543a-5d80-4083-9357-f11bc4b339bd" alt="SOLER logo">
