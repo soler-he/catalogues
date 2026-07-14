@@ -3,7 +3,7 @@ The [SOLER](https://soler-horizon.eu/) project provides three interlinked catalo
 
 - [CME catalogue](https://github.com/soler-he/catalogues/blob/main/SOLER_CME_catalogue.csv)
 - [Flare catalogue](https://github.com/soler-he/catalogues/blob/main/SOLER_Flare_catalogue.csv)
-SEP catalogue
+- [SEP catalogue](https://github.com/soler-he/catalogues/blob/main/SOLER_SEP_catalogue.csv)
 
 ## Acknowledgement
 <img align="right" height="80px" src="https://github.com/user-attachments/assets/28c60e00-85b4-4cf3-a422-6f0524c42234" alt="EU flag">
