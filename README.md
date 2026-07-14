@@ -1,5 +1,5 @@
 # SOLER Catalogues
-The SOLER project provides three interlinked catalogues focusing on different aspects of energetic solar eruptions: solar flares, coronal mass ejections (CME), and solar energetic particles (SEP).
+The [SOLER](https://soler-horizon.eu/) project provides three interlinked catalogues focusing on different aspects of energetic solar eruptions: solar flares, coronal mass ejections (CME), and solar energetic particles (SEP).
 
 - [CME catalogue](https://github.com/soler-he/catalogues/blob/main/SOLER_CME_catalogue.csv)
 - [Flare catalogue](https://github.com/soler-he/catalogues/blob/main/SOLER_Flare_catalogue.csv)
