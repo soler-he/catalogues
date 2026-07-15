@@ -1,4 +1,5 @@
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21370766-blue)](https://doi.org/10.5281/zenodo.21370766)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 # SOLER catalogues
 The [SOLER](https://soler-horizon.eu/) project provides three interlinked catalogues focusing on different aspects of energetic solar eruptions: coronal mass ejections (CME), solar flares, and solar energetic particles (SEP). 
@@ -23,6 +24,9 @@ This catalogue contains multi-spacecraft solar energetic particle (SEP) events, 
 
 ## Citing
 To cite these catalogues, please obtain the citation from the corresponding [Zenodo entry](https://doi.org/10.5281/zenodo.21370766), where you can generate different citation styles on the bottom right of the page.
+
+## License
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 ## Acknowledgement
 <img align="right" height="80px" src="https://github.com/user-attachments/assets/28c60e00-85b4-4cf3-a422-6f0524c42234" alt="EU flag">
