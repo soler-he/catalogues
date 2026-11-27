@@ -47,23 +47,23 @@
 - Electron to proton ratios between ~1 MeV electrons and >25 MeV protons have been added. For Parker Solar Probe, BepiColombo, and SOHO we directly use the peak intensity entries of the catalogue. For Solar Orbiter and STEREO A we follow the procedure described in Dresing et al. (2024). Table 2 of that paper summarizes the energy channels used in an interpolation method to determine 1 MeV electron intensities. Although the channels are correctly described in the text, there is a typo in the Solar Orbiter information in that table. The correct energy channel used for ∼1 MeV electrons is only channel 1 of HET (1.053–2.401 MeV), rather than a combination of channels 0 and 1.
 
 - Old events (2020-11-29 to 2023-12-31) have been revisited resulting in the following changes:
-  - For SEP0043 Flare_IDX and CME_IDX removed.
-  - CME0054 added to SEP0047.
-  - CME0073 added to SEP0051.
-  - Flare for SEP0073 is replaced with SOLER FLARE0129.
-  - Flare for SEP0098 is replaced with SOLER FLARE0160.
-  - STIX flare class is updated to M5 for SEP0011 for FLARE0001.
-  - Flare for SEP0031 is replaced with a STIX Flare with class M2.
-  - Flare for SEP0039 is removed. No suitable flare candidate is identified.
-  - Flare for SEP0043 is removed. No suitable flare candidate is identified.
-  - STIX flare class for FLARE0048 for SEP0044 is updated to M9.
-  - Flare for SEP0050 is replaced with a STIX flare with class M2.
-  - Flare for SEP0052 is removed. No suitable flare candidate is identified.
-  - Flare for SEP0062 is replaced with a GOES flare with class C9.7.
-  - Flare for SEP0050 is replaced with a STIX flare with class M2.
-  - Flare for SEP0087 is replaced with a STIX flare with class C3.
-  - Flare for SEP0097 is replaced with a STIX flare with class C3.3.
-  - 1MeV electron SOHO data is replaced with a new SOHO level 3 data set for analysis.
+  - SEP0011: STIX flare class is updated to M5 for FLARE0001.
+  - SEP0031: Flare is replaced with a STIX flare with class M2.
+  - SEP0039: Flare is removed. No suitable flare candidate is identified.
+  - SEP0043: Flare_IDX and CME_IDX removed.
+  - SEP0043: Flare is removed. No suitable flare candidate is identified.
+  - SEP0044: STIX flare class for FLARE0048 is updated to M9.
+  - SEP0047: CME0054 is added.
+  - SEP0050: Flare is replaced with a STIX flare with class M2.
+  - SEP0051: CME0073 is added.
+  - SEP0052: Flare is removed. No suitable flare candidate is identified.
+  - SEP0062: Flare is replaced with a GOES flare with class C9.7.
+  - SEP0073: Flare is replaced with SOLER FLARE0129.
+  - SEP0087: Flare is replaced with a STIX flare with class C3.
+  - SEP0097: Flare is removed. No suitable flare candidate is identified.
+  - SEP0098: Flare is replaced with SOLER FLARE0160.
+
+  - 1 MeV electron SOHO/EPHIN level 2 data is replaced with a new SOHO/EPHIN level 3 data set for analysis.
   - `p25MeV PyOnset date (yyyy-mm-dd)` and `p25MeV inferred injection date (yyyy-mm-dd)` corrected for SEP0064 from 2023-05-05 to 2023-05-09.
   - `e100kev comment` column added for 100keV electrons (was accidentally missing in the first release).
   - Solar-MACH links have been updated accordingly in case of changes in flare associations.
