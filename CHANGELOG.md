@@ -44,7 +44,7 @@
 
 - Extension of the catalogue for the year 2024 (69 new events added).
 - All 1 MeV electron events observed by SOHO/EPHIN have been re-analyzed with a new level 3 data set (Jensen et al., 2026).
-- Electron to proton ratios between ~1 MeV electrons and >25 MeV protons have been added. For Parker Solar Probe, BepiColombo, and SOHO we directly use the peak intensity entries of the catalogue. For Solar Orbiter and STEREO A we follow the procedure described in Dresing et al. (2024).
+- Electron to proton ratios between ~1 MeV electrons and >25 MeV protons have been added. For Parker Solar Probe, BepiColombo, and SOHO we directly use the peak intensity entries of the catalogue. For Solar Orbiter and STEREO A we follow the procedure described in Dresing et al. (2024). Table 2 of that paper summarizes the energy channels used in an interpolation method to determine 1 MeV electron intensities. Although the channels are correctly described in the text, there is a typo in the Solar Orbiter information in that table. The correct energy channel used for ∼1 MeV electrons is only channel 1 of HET (1.053–2.401 MeV), rather than a combination of channels 0 and 1.
 
 - Old events (2020-11-29 to 2023-12-31) have been revisited resulting in the following changes:
   - For SEP0043 Flare_IDX and CME_IDX removed.
