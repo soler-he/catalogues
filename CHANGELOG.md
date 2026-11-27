@@ -13,6 +13,20 @@
 - In the cases where no type II radio burst associations were found, the columns remain empty. The type II events have been extracted from the National Oceanic and Atmospheric Administration (NOAA) Space Weather Prediction Centre (SWPC) event reports. The events were selected such that they occurred within one hour of the flare start time.
 - The presence of coronal waves associated with flare events has now been added in the column `Coronal waves`. In the cases where an association was found, the word `yes` is included in this column, otherwise the entry remains empty. The coronal wave events have been extracted from the _Large-scale Coronal Propagating Fronts_ list maintained by Nariaki Nitta (<https://aia.lmsal.com/AIA_Waves/>, see for example Nitta et al., 2013).
 - Associations with CMEs and SEP events have been re-checked manually and indices have been updated accordingly.
+- Detailled individual changes:
+  - FLARE0002 - GOES estimate changed to M6
+  - Added in FLARE0007 (new number)
+  - FLARE0067 changed to FLARE0068 and edited start time
+  - FLARE0077 changed to FLARE0078 Observer changed from GOES to GOES/STIX
+  - FLARE0097 merged with FLARE0098 and FLARE0099 → consolidated to FLARE0098 times edited
+  - FLARE0134 merged with FLARE0135 → consolidated to FLARE0133 times edited
+  - FLARE0155 changed to FLARE0153 and changed STIX start time
+  - FLARE0176 merged with FLARE0177 → consolidated to FLARE0174
+  - FLARE0226 merged with FLARE0227 and FLARE0228 → consolidated to FLARE0223
+  - FLARE0253 merged with FLARE0254 → consolidated to FLARE0248
+  - FLARE0289 → split into FLARE0283 and FLARE0284
+  - FLARE0308 changed to FLARE303 → changed GOES estimate from M10 to X1
+  - FLARE0309 merged with FLARE0310 → consolidated to FLARE0304 + GOES estimate changed from M10 to X1
 
 ### CME catalogue
 
